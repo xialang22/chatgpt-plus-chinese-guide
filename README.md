@@ -29,7 +29,7 @@
 
 本文推荐使用的充值入口：
 
-> <http://t.xialangw.com>
+> <https://plusdingyue.com/>
 
 ## 目录
 
@@ -224,14 +224,14 @@ ChatGPT 官方订阅主要面向国际支付环境，常见付款方式一般是
 
 下面以充值入口为例，说明整个 ChatGPT Plus 卡密充值流程：
 
-> <http://t.xialangw.com>
+> <https://plusdingyue.com/>
 
 ### 第一步：打开充值平台
 
 在浏览器中打开：
 
 ```text
-http://t.xialangw.com
+https://plusdingyue.com/
 ```
 
 进入页面后，找到 ChatGPT Plus 充值相关入口。
@@ -287,7 +287,7 @@ http://t.xialangw.com
 
 本文推荐入口为：
 
-> <http://t.xialangw.com>
+> <https://plusdingyue.com/>
 
 付款完成后，不要急着关闭页面。
 
@@ -514,7 +514,7 @@ http://t.xialangw.com
 
 本文使用的充值入口是：
 
-> <http://t.xialangw.com>
+> <https://plusdingyue.com/>
 
 ## 十、ChatGPT Plus 国内充值常见问题 FAQ
 
@@ -624,7 +624,7 @@ http://t.xialangw.com
 
 本文推荐充值入口：
 
-> <http://t.xialangw.com>
+> <https://plusdingyue.com/>
 
 最后还是那句话：
 
